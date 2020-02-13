@@ -47,7 +47,7 @@ portfolio-home-items:
 
 portfolio-items:
   - image : "assets/images/portfolio/pwclogo.webp"
-    url: "https://www.slideshare.net/slideshow/embed_code/key/2w0mzLMGcxW4lt"
+    url: "https://www.slideshare.net/slideshow/embed_code/key/gY50KkHnoFTWOq"
 
       
   - image : "assets/images/portfolio/boeinglogo.jpg"
@@ -55,5 +55,5 @@ portfolio-items:
 
       
   - image : "assets/images/portfolio/ms.jpg"
-    url: "https://www.slideshare.net/slideshow/embed_code/key/gY50KkHnoFTWOq"
+    url: "https://www.slideshare.net/slideshow/embed_code/key/2w0mzLMGcxW4lt"
   

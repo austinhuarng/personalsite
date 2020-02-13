@@ -46,7 +46,7 @@ portfolio-home-items:
 # Projects Page
 
 portfolio-items:
-  - image : "assets/images/portfolio/pwclogo.webp"
+  - image : "assets/images/portfolio/pwclogo.jpg"
     url: "https://www.slideshare.net/slideshow/embed_code/key/gY50KkHnoFTWOq"
 
       

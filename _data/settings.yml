@@ -31,7 +31,7 @@ blurb-btn-name: Download CV
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#assets/resume.pdf"
+    url: "#assets/Resume.pdf"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"

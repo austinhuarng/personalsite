@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "austinyhuang.com" 
+url: "http://austinyhuang.com" 
 
 # Build settings
 markdown: kramdown

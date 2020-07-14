@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://austinyhuang.com" 
+url: "www.austinyhuang.com"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ plugins:
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
 

@@ -4,7 +4,7 @@
 title: Austin Huang
 email: austinhu@usc.edu
 phone: +1 323 336 0926
-address: 3131 McClintock Ave, G161, Los Angeles, CA 90007
+address: Los Angeles, CA 90007
 
 menu:
 - {name: About Me, link: '/'}
@@ -21,7 +21,8 @@ hero:
 
 # About Section
 blurb:
-  Thanks for visiting my site! I'm a sophomore studying CS/Business Admin at USC. Here's a bit about myself, a couple of projects I've worked on, and topics currently on my mind! 😃
+  Thanks for visiting my site! I'm a senior studying CS/Business Admin at USC. Here's a bit about myself and a couple of projects I've worked on!
+  I'm currently open to full-time software engineering and product management roles - please feel free to reach out to me. 😃
 
 blurb-btn-name: Download CV
 
